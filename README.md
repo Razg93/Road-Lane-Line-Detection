@@ -1,5 +1,7 @@
 # Road-Lane-Line-Detection
 
+[![Road Lane Line Detection](https://yt-embed.herokuapp.com/embed?v=kK9qB37BV6w)](https://www.youtube.com/watch?v=kK9qB37BV6w "Road Lane Line Detection")
+
 Lane detection is a critical component of self-driving cars and autonomous vehicles, In this project i did Road Lane Line Detection using OpenCV library. I implemented this algorithm with the following main steps:
 
 1.Video divisions for frames, pre processing for each frames, converting to gray scale and smoothing using gaussian blur.
@@ -20,12 +22,8 @@ Lane detection is a critical component of self-driving cars and autonomous vehic
 ![color_lines](https://user-images.githubusercontent.com/50642442/125351670-0632dd00-e369-11eb-9b7e-d8658613e3de.jpg)
 
 6.Blending the original frame and the lines found using weighted img function.
-        
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=kK9qB37BV6w">
-         <img src="https://img.youtube.com/vi/kK9qB37BV6w/0.jpg" style="width:100%;">
-      </a>
-</div>
+
+![weighted img](https://user-images.githubusercontent.com/50642442/125353757-a1c54d00-e36b-11eb-99c8-36c866f45048.jpg)
 
 
 
