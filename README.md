@@ -8,3 +8,7 @@ Lane detection is a critical component of self-driving cars and autonomous vehic
 4.Apply Hough transform to detect multiple lines in area of interest.
 5.Extrapolate the lines found in the hough transform to construct the left and right lane lines. 
 6.blending the original frame and the lines found using weighted img function.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi//kK9qB37BV6w/0.jpg)](http://www.youtube.com/watch?v=/kK9qB37BV6w "Road Lane Line Detection")
+
+
