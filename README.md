@@ -4,7 +4,7 @@
 
 Lane detection is a critical component of self-driving cars and autonomous vehicles, In this project I did Road Lane Line Detection using OpenCV library. I implemented this algorithm with the following main steps:
 
-1.Video divisions for frames, pre processing for each frames, converting to gray scale and smoothing using gaussian blur.
+1.Video divisions for frames, pre processing for each frame, converting to gray scale and smoothing using gaussian blur.
 
 ![gray_image](https://user-images.githubusercontent.com/50642442/125351187-72f9a780-e368-11eb-91a4-1e928737a0bf.jpg)
 
@@ -21,7 +21,7 @@ Lane detection is a critical component of self-driving cars and autonomous vehic
 
 ![color_lines](https://user-images.githubusercontent.com/50642442/125351670-0632dd00-e369-11eb-9b7e-d8658613e3de.jpg)
 
-6.Blending the original frame and the lines found using weighted img function.
+6.Blend the original frame and the lines found using weighted img function.
 
 ![weighted img](https://user-images.githubusercontent.com/50642442/125353757-a1c54d00-e36b-11eb-99c8-36c866f45048.jpg)
 
